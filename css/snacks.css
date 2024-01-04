@@ -1,0 +1,35 @@
+#card{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.btn{
+    margin-left:30px;
+}
+
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .col-xl-3 {
+    flex: 0 0 calc(33.333% - 20px);
+    max-width: calc(33.333% - 20px);
+  }
+  
+  /* Adjust the container width and max-width as needed */
+  
+  
+  .col-xl-3 {
+    flex: 0 0 calc(33.333% - 20px); /* Adjust as needed */
+    max-width: calc(33.333% - 20px); /* Adjust as needed */
+  }
+  
+
+ .card-header{
+  margin-top: 150px;
+ }
+  
+

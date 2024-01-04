@@ -1,0 +1,855 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "releaseDate": "2010-07-16",
+      "director": "Christopher Nolan",
+      "actors": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt"
+      ],
+      "rating": 8.8,
+      "image": "../images/moviephotos/inception.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "releaseDate": "1994-09-23",
+      "director": "Frank Darabont",
+      "actors": [
+        "Tim Robbins",
+        "Morgan Freeman"
+      ],
+      "rating": 9.3,
+      "image": "../images/moviephotos/shawshank redemption.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Morbius",
+      "genre": "Action",
+      "releaseDate": "2022-04-01",
+      "director": "Daniel Espinosa",
+      "actors": [
+        "Jared Leto",
+        "Matt Smith",
+        "Adria Arjona"
+      ],
+      "rating": 5.2,
+      "image": "../images/moviephotos/morbius.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "releaseDate": "2008-07-18",
+      "director": "Christopher Nolan",
+      "actors": [
+        "Christian Bale",
+        "Heath Ledger"
+      ],
+      "rating": 9,
+      "image": "../images/moviephotos/dark knight.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "releaseDate": "1994-10-14",
+      "director": "Quentin Tarantino",
+      "actors": [
+        "John Travolta",
+        "Samuel L. Jackson"
+      ],
+      "rating": 8.9,
+      "image": "../images/moviephotos/pulp fiction.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Godfather",
+      "genre": "Crime",
+      "releaseDate": "1972-03-24",
+      "director": "Francis Ford Coppola",
+      "actors": [
+        "Marlon Brando",
+        "Al Pacino"
+      ],
+      "rating": 9.2,
+      "image": "../images/moviephotos/the godfather.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Forrest Gump",
+      "genre": "Drama",
+      "releaseDate": "1994-07-06",
+      "director": "Robert Zemeckis",
+      "actors": [
+        "Tom Hanks",
+        "Robin Wright"
+      ],
+      "rating": 8.8,
+      "image": "../images/moviephotos/forrest gump.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Interstellar",
+      "genre": "Sci-Fi",
+      "releaseDate": "2014-11-07",
+      "director": "Christopher Nolan",
+      "actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway"
+      ],
+      "rating": 8.6,
+      "image": "../images/moviephotos/interstellar.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Fight Club",
+      "genre": "Drama",
+      "releaseDate": "1999-10-15",
+      "director": "David Fincher",
+      "actors": [
+        "Brad Pitt",
+        "Edward Norton"
+      ],
+      "rating": 8.8,
+      "image": "../images/moviephotos/fight club.jpg"
+    },
+    {
+      "id": 10,
+      "title": "The Matrix",
+      "genre": "Action",
+      "releaseDate": "1999-03-31",
+      "director": "The Wachowskis",
+      "actors": [
+        "Keanu Reeves",
+        "Laurence Fishburne"
+      ],
+      "rating": 8.7,
+      "image": "../images/moviephotos/the matrix.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Morbius",
+      "genre": "Action",
+      "releaseDate": "2022-04-01",
+      "director": "Daniel Espinosa",
+      "actors": [
+        "Jared Leto",
+        "Matt Smith",
+        "Adria Arjona"
+      ],
+      "rating": 5.2,
+      "image": "../images/moviephotos/morbius.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Kabir Singh",
+      "genre": "Drama",
+      "releaseDate": "2019-06-21",
+      "director": "Sandeep Reddy Vanga",
+      "actors": [
+        "Shahid Kapoor",
+        "Kiara Advani"
+      ],
+      "rating": 7.1,
+      "image": "../images/moviephotos/kabir singh.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Dangal",
+      "genre": "Biography",
+      "releaseDate": "2016-12-23",
+      "director": "Nitesh Tiwari",
+      "actors": [
+        "Aamir Khan",
+        "Sakshi Tanwar"
+      ],
+      "rating": 8.4,
+      "image": "../images/moviephotos/Dangal.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Bahubali: The Beginning",
+      "genre": "Action",
+      "releaseDate": "2015-07-10",
+      "director": "S.S. Rajamouli",
+      "actors": [
+        "Prabhas",
+        "Anushka Shetty"
+      ],
+      "rating": 8.1,
+      "image": "../images/moviephotos/bahubali.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Padmaavat",
+      "genre": "Drama",
+      "releaseDate": "2018-01-25",
+      "director": "Sanjay Leela Bhansali",
+      "actors": [
+        "Deepika Padukone",
+        "Ranveer Singh"
+      ],
+      "rating": 7,
+      "image": "../images/moviephotos/padmavat.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Stree",
+      "genre": "Horror",
+      "releaseDate": "2018-08-31",
+      "director": "Amar Kaushik",
+      "actors": [
+        "Rajkummar Rao",
+        "Shraddha Kapoor"
+      ],
+      "rating": 7.6,
+      "image": "../images/moviephotos/stree.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Dil Chahta Hai",
+      "genre": "Drama",
+      "releaseDate": "2001-07-24",
+      "director": "Farhan Akhtar",
+      "actors": [
+        "Aamir Khan",
+        "Saif Ali Khan"
+      ],
+      "rating": 8.1,
+      "image": "../images/moviephotos/dil chahta hai.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Queen",
+      "genre": "Comedy",
+      "releaseDate": "2013-03-07",
+      "director": "Vikas Bahl",
+      "actors": [
+        "Kangana Ranaut",
+        "Rajkummar Rao"
+      ],
+      "rating": 8.2,
+      "image": "../images/moviephotos/queen.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "kalyani",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "username": "disha",
+      "email": "disha@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": 3,
+      "username": "harshad",
+      "email": "harshad@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": 4,
+      "username": "harsh",
+      "email": "harsh@gmail.com",
+      "password": "admin"
+    }
+  ],
+  "theaters": [
+    {
+      "name": "PVR Cinemas",
+      "location": "Phoenix Marketcity",
+      "showTimings": [
+        {
+          "day": "Monday",
+          "time": "15:00"
+        },
+        {
+          "day": "Tuesday",
+          "time": "18:30"
+        },
+        {
+          "day": "Wednesday",
+          "time": "20:15"
+        },
+        {
+          "day": "Thursday",
+          "time": "16:45"
+        },
+        {
+          "day": "Friday",
+          "time": "19:00"
+        },
+        {
+          "day": "Saturday",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "name": "INOX",
+      "location": "Bund Garden Road",
+      "showTimings": [
+        {
+          "day": "Monday",
+          "time": "15:00"
+        },
+        {
+          "day": "Tuesday",
+          "time": "18:30"
+        },
+        {
+          "day": "Wednesday",
+          "time": "20:15"
+        },
+        {
+          "day": "Thursday",
+          "time": "16:45"
+        },
+        {
+          "day": "Friday",
+          "time": "19:00"
+        },
+        {
+          "day": "Saturday",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "name": "City Pride",
+      "location": "Kothrud",
+      "showTimings": [
+        {
+          "day": "Monday",
+          "time": "15:00"
+        },
+        {
+          "day": "Tuesday",
+          "time": "18:30"
+        },
+        {
+          "day": "Wednesday",
+          "time": "20:15"
+        },
+        {
+          "day": "Thursday",
+          "time": "16:45"
+        },
+        {
+          "day": "Friday",
+          "time": "19:00"
+        },
+        {
+          "day": "Saturday",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "name": "Carnival",
+      "location": "Seasons Mall, Magarpatta",
+      "showTimings": [
+        {
+          "day": "Monday",
+          "time": "15:00"
+        },
+        {
+          "day": "Tuesday",
+          "time": "18:30"
+        },
+        {
+          "day": "Wednesday",
+          "time": "20:15"
+        },
+        {
+          "day": "Thursday",
+          "time": "16:45"
+        },
+        {
+          "day": "Friday",
+          "time": "19:00"
+        },
+        {
+          "day": "Saturday",
+          "time": "21:30"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "Sonu Nigam Live Concert",
+      "date": "2024-07-15",
+      "location": "City Arena",
+      "artists": [
+        "Sonu Nigam"
+      ],
+      "category": "Music",
+      "description": "Experience the soulful voice of Sonu Nigam in this live concert.",
+      "image": "path/to/sonu_nigam_concert.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Abhishek Manu Stand-up Comedy",
+      "date": "2024-08-05",
+      "location": "Laugh Lounge",
+      "artists": [
+        "Abhishek Manu"
+      ],
+      "category": "Comedy",
+      "description": "Get ready for an evening full of laughter with Abhishek Manu's hilarious stand-up comedy.",
+      "image": "path/to/abhishek_manu_comedy.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Zakir Khan Live Show",
+      "date": "2024-09-20",
+      "location": "Comedy Club",
+      "artists": [
+        "Zakir Khan"
+      ],
+      "category": "Comedy",
+      "description": "Join Zakir Khan for an entertaining live show filled with humor and anecdotes.",
+      "image": "path/to/zakir_khan_show.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Rock Music Festival",
+      "date": "2024-10-10",
+      "location": "Rock Arena",
+      "artists": [
+        "Various Rock Bands"
+      ],
+      "category": "Music",
+      "description": "Experience the energy of rock music with multiple bands performing live at the Rock Music Festival.",
+      "image": "path/to/rock_music_festival.jpg"
+    }
+  ],
+  "actors": [
+    {
+      "id": 1,
+      "name": "Leonardo DiCaprio",
+      "description": "Oscar-winning actor known for his versatile roles.",
+      "birthdate": "November 11, 1974",
+      "country": "United States",
+      "image": "../images/actorsphotos/leonardo.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Joseph Gordon-Levitt",
+      "description": "Actor and filmmaker with a wide range of roles in various genres.",
+      "birthdate": "February 17, 1981",
+      "country": "United States",
+      "image": "../images/actorsphotos/joseph gordon levitt.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Tim Robbins",
+      "description": "Award-winning actor, director, and activist.",
+      "birthdate": "October 16, 1958",
+      "country": "United States",
+      "image": "../images/actorsphotos/tim robbins.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Morgan Freeman",
+      "description": "Acclaimed actor with a distinguished career in film and television.",
+      "details": {
+        "birthdate": "June 1, 1937",
+        "country": "United States",
+        "awards": [
+          "Academy Award",
+          "Golden Globe"
+        ]
+      },
+      "image": "../images/actorsphotos/morgan freeman.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Jared Leto",
+      "description": "Versatile actor and musician known for his transformative roles.",
+      "details": {
+        "birthdate": "December 26, 1971",
+        "country": "United States",
+        "band": "30 Seconds to Mars"
+      },
+      "image": "../images/actorsphotos/jared leto.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Matt Smith",
+      "description": "British actor best known for his role as the Eleventh Doctor in Doctor Who.",
+      "details": {
+        "birthdate": "October 28, 1982",
+        "country": "United Kingdom"
+      },
+      "image": "../images/actorsphotos/matt smith.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Adria Arjona",
+      "description": "Guatemalan and Puerto Rican actress known for her work in films and television series.",
+      "details": {
+        "birthdate": "April 25, 1992",
+        "country": "Guatemala"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Christian Bale",
+      "description": "Acclaimed actor known for his dedication to roles and physical transformations.",
+      "details": {
+        "birthdate": "January 30, 1974",
+        "country": "United Kingdom",
+        "awards": [
+          "Academy Award",
+          "Golden Globe"
+        ]
+      },
+      "image": "../images/actorsphotos/adria arjona.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Heath Ledger",
+      "description": "Late Australian actor known for his iconic performances.",
+      "details": {
+        "birthdate": "April 4, 1979",
+        "country": "Australia",
+        "awards": [
+          "Academy Award",
+          "BAFTA Award"
+        ]
+      },
+      "image": "../images/actorsphotos/heath ledger.jpg"
+    }
+  ],
+  "seats": [
+    [
+      {
+        "name": "A1",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "A2",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "A3",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "A4",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "A5",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "A6",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "A7",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "A8",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "A9",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "A10",
+        "status": "available",
+        "price": 300
+      }
+    ],
+    [
+      {
+        "name": "B1",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "B2",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "B3",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "B4",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "B5",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "B6",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "B7",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "B8",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "B9",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "B10",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "B11",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "B12",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "B13",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "B14",
+        "status": "available",
+        "price": 300
+      }
+    ],
+    [
+      {
+        "name": "C1",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "C2",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "C3",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "C4",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "C5",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "C6",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "C7",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "C8",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "C9",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "C10",
+        "status": "available",
+        "price": 300
+      }
+    ],
+    [
+      {
+        "name": "D1",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "D2",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "D3",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "D4",
+        "status": "available",
+        "price": 300
+      },
+      {
+        "name": "D5",
+        "status": "available",
+        "price": 300
+      }
+    ]
+  ],
+  "book-tickets": [
+    {
+      "seats": [
+        {
+          "name": "C1",
+          "status": "available"
+        },
+        {
+          "name": "C2",
+          "status": "available"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "seats": [
+        {
+          "name": "C2",
+          "status": "available"
+        },
+        {
+          "name": "C1",
+          "status": "available"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "seats": [
+        {
+          "name": "B1",
+          "status": "available"
+        },
+        {
+          "name": "B2",
+          "status": "available"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "seats": [
+        {
+          "name": "B1",
+          "status": "available"
+        },
+        {
+          "name": "B2",
+          "status": "available"
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "snacks": [
+    {
+      "id": 1,
+      "_product": "Jumbo PopCorn",
+      "_price": 150,
+      "_img": "../images/snacks/popcorn.jpg",
+      "_desc": "Jumbo Salted Popcorn"
+    },
+    {
+      "id": 2,
+      "_product": "French Fries",
+      "_price": 350,
+      "_img": "../images/snacks/french.jpg",
+      "_desc": "Spicy Pasta 500g | 1500 kcal"
+    },
+    {
+      "id": 3,
+      "_product": "Coca-Cola",
+      "_price": 100,
+      "_img": "../images/snacks/french.jpg",
+      "_desc": "Coca-Cola 500ml"
+    },
+    {
+      "id": 4,
+      "_product": "Burger",
+      "_price": 500,
+      "_img": "../images/snacks/burger.jpg",
+      "_desc": "Spicy Burger  | 1500 kcal"
+    },
+    {
+      "id": 5,
+      "_product": "Burger",
+      "_price": 500,
+      "_img": "../images/snacks/burger.jpg",
+      "_desc": "Spicy Burger  | 1500 kcal"
+    },
+    {
+      "id": 6,
+      "_product": "Coca-Cola",
+      "_price": 100,
+      "_img": "../images/snacks/coca-cola.jpg",
+      "_desc": "Coca-Cola 500ml"
+    },
+    {
+      "id": 7,
+      "_product": "Pizza",
+      "_price": 350,
+      "_img": "../images/snacks/pizza.jpg",
+      "_desc": "Veg Pizza Medium Size"
+    },
+    {
+      "id": 8,
+      "_product": "Sandwitch",
+      "_price": 300,
+      "_img": "../images/snacks/sandwitch.jpg",
+      "_desc": "Spicy Sandwitch"
+    }
+  ],
+  "contacts": [],
+  "feedbacks": []
+}
